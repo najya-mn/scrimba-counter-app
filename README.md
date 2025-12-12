@@ -1,12 +1,49 @@
-**Flower Counter App**
+# Flower Counter App
+
+A simple and fun counter app built with HTML, CSS, and JavaScript.
+
+Originally based on a Scrimba project, but customized into a flower-themed counter with a redesigned background and styling.
 
 
 
-This is a simple counter app built with HTML, CSS, and JavaScript. Originally made following Scrimba's HTML/CSS, but I've modified it to become a flower counter.
+## Technologies Used
+
+* HTML
+* CSS
+* JavaScript
 
 
 
-**Features**
+## Live Demo
+
+[View the App](https://najya-mn.github.io/scrimba-counter-app)
+
+
+
+## Screenshots
+
+![Flower Counter App Screenshot](./screenshots/scrimba-counter-app.png)
+
+
+
+## Features
 
 * Increment button
 * Save entries and preview past entries
+* Custom CSS theme with a red flower field and sunset background
+
+
+
+## What I Learned
+
+* Basic DOM manipulation
+* Handling click events
+* Updating UI dynamically
+* Styling with background images and thematic color choices
+
+
+
+## Acknowledgements
+
+Based on a Scrimba's Learn JavaScript course.
+
