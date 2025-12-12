@@ -16,7 +16,7 @@ Originally based on a Scrimba project, but customized into a flower-themed count
 
 ## Live Demo
 
-[View the App](https://najya-mn.github.io/scrimba-counter-app)
+[Flower Counter App - Live Demo](https://najya-mn.github.io/scrimba-counter-app)
 
 
 
